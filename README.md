@@ -1,0 +1,2 @@
+# jamarii-char
+JAMARII.CHAR
